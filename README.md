@@ -32,4 +32,4 @@ Cada proyecto destacado documenta esa cadena completa en su carpeta `/docs`: cad
 
 ## Formación
 
-Tecnicatura Universitaria en Desarrollo de Software — UADE *(en curso)*
+proximo ingeniero de UADE
