@@ -20,6 +20,7 @@ Cada proyecto destacado documenta esa cadena completa en su carpeta `/docs`: cad
 
 | Proyecto | Problema | Qué demuestra | Stack |
 |---|---|---|---|
+| [**turnos-consultorio**](https://github.com/tinodorrego/turnos-consultorio) | Un consultorio de salud que daba turnos por WhatsApp y cuaderno: el paciente no veía la disponibilidad y no había forma simple de cancelar. | Relevamiento → SRS → diseño UX/UI → código: reserva con interfaz de almanaque de farmacia, sin dobles reservas aunque dos personas confirmen a la vez, comprobante con cancelación, panel con ocupación y ausentismo, y un plan de validación con usuarios. [Ver documentación](https://github.com/tinodorrego/turnos-consultorio/tree/main/docs) | Next.js, TypeScript, Tailwind, PostgreSQL, Drizzle, Vitest |
 | [**solicitudes-it**](https://github.com/tinodorrego/solicitudes-it) | Las solicitudes internas a IT llegaban por mail y chat, sin prioridad, plazo ni seguimiento. | Relevamiento → SRS → historias con Gherkin → código: ciclo de vida con permisos por rol, seguimiento, SLA calculado por reglas documentadas, dashboard de indicadores y 49 tests que citan el ID de cada requisito. [Ver documentación](https://github.com/tinodorrego/solicitudes-it/tree/main/docs) | Next.js, TypeScript, Tailwind, PostgreSQL, Drizzle, Vitest |
 
 ## Stack
