@@ -8,12 +8,6 @@ Analista funcional y desarrollador de software. Convierto procesos de negocio en
 - **Ingeniería de requerimientos** — especificaciones (SRS), historias de usuario con criterios de aceptación en Gherkin, reglas de negocio y matrices de trazabilidad.
 - **Desarrollo** — aplicaciones web full-stack y automatización de procesos e infraestructura de reportes: integración de datos, flujos en Power Automate y modelos para Power BI.
 
-## Cómo trabajo
-
-```
-Relevamiento → SRS → Historias + criterios → Diseño (BPMN / DER) → Código → Tests → Trazabilidad
-```
-
 Cada proyecto destacado documenta esa cadena completa en su carpeta `/docs`: cada requisito tiene un ID, una o más historias que lo cubren, los tests que lo verifican y el código que lo implementa.
 
 ## Proyectos
