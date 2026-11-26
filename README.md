@@ -33,3 +33,8 @@ Cada proyecto destacado documenta esa cadena completa en su carpeta `/docs`: cad
 ## Formación
 
 proximo ingeniero de UADE
+
+## Contacto
+
+- LinkedIn: [linkedin.com/in/valentino-dorrego](https://www.linkedin.com/in/valentino-dorrego)
+- Email: [valentinodorrego@gmail.com](mailto:valentinodorrego@gmail.com)
