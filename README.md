@@ -14,19 +14,25 @@ Analista funcional y desarrollador de software. Entiendo cómo se trabaja hoy, d
 
 Subís la foto de un producto y ves opciones parecidas en tiendas online, con precio, talles y enlace para ir a comprarlo. La foto se compara en tu computadora.
 
-`Python` `FastAPI` `DuckDB` `JavaScript` · [Documentación](https://github.com/tinodorrego/pricevision/tree/main/docs)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+[Documentación](https://github.com/tinodorrego/pricevision/tree/main/docs)
 
 ### [Turnos para consultorio](https://github.com/tinodorrego/turnos-consultorio)
 
 Reserva de turnos online. El paciente ve de entrada qué días hay lugar, reserva y puede cancelar; el consultorio sigue la agenda y la asistencia desde un panel.
 
-`Next.js` `TypeScript` `PostgreSQL` · [Documentación](https://github.com/tinodorrego/turnos-consultorio/tree/main/docs)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+[Documentación](https://github.com/tinodorrego/turnos-consultorio/tree/main/docs)
 
 ### [Solicitudes a IT](https://github.com/tinodorrego/solicitudes-it)
 
 Un solo lugar para los pedidos internos al área de sistemas. Cada uno tiene prioridad, plazo y seguimiento, y un tablero muestra qué está por vencer.
 
-`Next.js` `TypeScript` `PostgreSQL` · [Documentación](https://github.com/tinodorrego/solicitudes-it/tree/main/docs)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+[Documentación](https://github.com/tinodorrego/solicitudes-it/tree/main/docs)
 
 ## Herramientas
 
