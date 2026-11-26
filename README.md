@@ -20,7 +20,7 @@ Cada proyecto destacado documenta esa cadena completa en su carpeta `/docs`: cad
 
 | Proyecto | Problema | Qué demuestra | Stack |
 |---|---|---|---|
-| [**solicitudes-it**](https://github.com/tinodorrego/solicitudes-it) | Las solicitudes internas a IT llegaban por mail y chat, sin prioridad, plazo ni seguimiento. | Relevamiento → SRS → historias con Gherkin → código, con prioridad y SLA calculados por reglas documentadas y 32 tests que citan el ID de cada requisito. [Ver documentación](https://github.com/tinodorrego/solicitudes-it/tree/main/docs) | Next.js, TypeScript, Tailwind, PostgreSQL, Drizzle, Vitest |
+| [**solicitudes-it**](https://github.com/tinodorrego/solicitudes-it) | Las solicitudes internas a IT llegaban por mail y chat, sin prioridad, plazo ni seguimiento. | Relevamiento → SRS → historias con Gherkin → código: ciclo de vida con permisos por rol, seguimiento, SLA calculado por reglas documentadas, dashboard de indicadores y 49 tests que citan el ID de cada requisito. [Ver documentación](https://github.com/tinodorrego/solicitudes-it/tree/main/docs) | Next.js, TypeScript, Tailwind, PostgreSQL, Drizzle, Vitest |
 
 ## Stack
 
